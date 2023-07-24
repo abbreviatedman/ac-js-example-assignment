@@ -1,4 +1,4 @@
-const testRunner = bcutr();
+const testRunner = bcontr();
 
 testRunner.printTestHeader("removeSpaces");
 
